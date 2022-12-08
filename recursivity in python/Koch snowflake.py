@@ -1,4 +1,9 @@
-# This is an interactive implementation of a half Koch snowflake, a fractal curve, using the tkinter package in python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+This is an interactive implementation of a half Koch snowflake, a fractal curve, using the tkinter package in python
+"""
 
 from tkinter import *
 import numpy as np
