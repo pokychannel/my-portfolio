@@ -12,3 +12,4 @@ and to inspire me to think of all the things I have yet to master.
 I also hope that my small contribution to this community will be useful to at least one student 
 looking for code that they can copy and paste onto their homework (you know we've all been there).
 
+Feel free to add me on [Linkedin](https://www.linkedin.com/in/laura-vazquez-p/) or to let me know if any of the code needs clarification.. :mag:
