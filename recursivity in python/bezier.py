@@ -1,3 +1,5 @@
+# This is an interactive implementation of a Bézier curve, a parametric curve used in computer graphics, using the tkinter package in python
+
 from textwrap import fill
 from tkinter import * 
 root = Tk()
