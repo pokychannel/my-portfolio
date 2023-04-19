@@ -1,6 +1,6 @@
 # hello! :shipit:
 
-My name is Laura. I am a Computer Science nerd who loves to solve logical problems,
+My name is Laura. I am a Computer Science graduate who loves to solve logical problems,
 from silly riddles and rubik's cubes to complex mathematical problems and coding challenges. 
 
 Through out my career, I got the chance to explore and learn about the vast reach of computer 
